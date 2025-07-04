@@ -7,7 +7,7 @@ if ask in student_data.keys():
 else:
     print("Student not found.")
 
-factorial(num)
+
 
 
 
